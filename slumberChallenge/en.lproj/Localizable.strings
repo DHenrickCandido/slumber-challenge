@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  slumberChallenge
+
+  Created by Diego Henrick on 02/10/24.
+  
+*/
+
+"red_square_label" = "Red Square\n(170x170)";
+"white_rectangle_label" = "White Rectangle (20 offset)";
+"blue_square_label" = "Blue\nSquare\n(120x120)";
+"purple_rectangle_label" = "Purple Rectangle";

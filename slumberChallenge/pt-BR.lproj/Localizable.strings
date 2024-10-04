@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  slumberChallenge
+
+  Created by Diego Henrick on 02/10/24.
+  
+*/
+
+"red_square_label" = "Quadrado Vermelho\n(170x170)";
+"white_rectangle_label" = "Retângulo Branco (20 de deslocamento)";
+"blue_square_label" = "Quadrado Azul\n(120x120)";
+"purple_rectangle_label" = "Retângulo Roxo";
